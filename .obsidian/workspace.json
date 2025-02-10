@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Conventional Commits.md",
+                "file": "notes/Markdown Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conventional Commits"
+              "title": "Markdown Guide"
             }
           }
         ]
@@ -171,10 +171,10 @@
   "active": "d9b6e18713a29680",
   "lastOpenFiles": [
     "notes/Launch an HTTP Server in One Line of Python Code.md",
-    "notes/Conventional Commits.md",
-    "notes/Swap Two Variables Without a Third Temporary Variable.md",
-    "Markdown Guide.md",
+    "notes/Markdown Guide.md",
     "notes/programing as a beginner.md",
+    "notes/Swap Two Variables Without a Third Temporary Variable.md",
+    "notes/Conventional Commits.md",
     "notes/javascript.md",
     "notes/java.md",
     "notes/cpp.md",
