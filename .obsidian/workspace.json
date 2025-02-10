@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "539d6aa329555f68",
+        "id": "004281b215da7f89",
         "type": "tabs",
         "children": [
           {
-            "id": "dcedc451a9d75ece",
+            "id": "d9b6e18713a29680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "commit",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -168,6 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcedc451a9d75ece",
-  "lastOpenFiles": []
+  "active": "a87c937e5bc3160d",
+  "lastOpenFiles": [
+    "notes/Launch an HTTP Server in One Line of Python Code.md",
+    "Markdown Guide.md",
+    "notes/Conventional Commits.md",
+    "notes/Swap Two Variables Without a Third Temporary Variable.md",
+    "notes/programing as a beginner.md",
+    "notes/javascript.md",
+    "notes/java.md",
+    "notes/cpp.md",
+    "notes/c.md",
+    "README.md",
+    "notes/note 1.md",
+    "diary/2025-02-05.md",
+    "assets/Pasted image 20250206004218.png",
+    "assets/Pasted image 20250206002537.png",
+    "canvases/Untitled.canvas",
+    "diary/2025-02-06.md",
+    "canvases/Untitled 2.canvas",
+    "notes/2025-02-06.md",
+    "diary",
+    "New folder",
+    "Untitled 1.canvas",
+    "canvases/Untitled 1.canvas",
+    "canvases",
+    "2025-02-05.md",
+    "Untitled.canvas",
+    "2025-02-06.md",
+    "notes",
+    "assets"
+  ]
 }
