@@ -1,7 +1,5 @@
 #git #github #programming #commit 
 
-# Conventional Commits
-
 ## Introduction
 
 Conventional Commits is a standardized format for writing commit messages. It helps maintain a consistent and structured history in a codebase, making it easier for developers to understand changes, generate changelogs, and automate versioning.
